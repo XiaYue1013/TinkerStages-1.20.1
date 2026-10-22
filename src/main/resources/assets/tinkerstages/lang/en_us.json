@@ -1,0 +1,14 @@
+{
+  "tinkerstages.message.general.crafting": "You cannot craft any Tinkers' Construct tools yet. Further progression is needed.",
+  "tinkerstages.message.general.part_building": "You cannot build any Tinkers' Construct tool parts yet. Further progression is needed.",
+  "tinkerstages.message.general.part_replacing": "You cannot replace Tinkers' Construct tool parts yet. Further progression is needed.",
+  "tinkerstages.message.general.modifier": "You cannot apply any Tinkers' Construct modifiers yet. Further progression is needed.",
+  "tinkerstages.message.tool_type": "You cannot craft or use %s yet. Further progression is needed.",
+  "tinkerstages.message.material": "You cannot use the material %s yet. Further progression is needed.",
+  "tinkerstages.message.modifier": "You cannot apply or use the modifier %s yet. Further progression is needed.",
+  "tinkerstages.message.modifier.apply": "You cannot apply the modifier %s yet. Further progression is needed.",
+  "tinkerstages.message.dropped": "You dropped %s because your current GameStages do not allow it.",
+  "tinkerstages.command.usage": "Usage: /tinkerstages dump <tools|materials|modifiers> | /tinkerstages rules",
+  "tinkerstages.command.rules.empty": "No TinkerStages restrictions are active.",
+  "tinkerstages.command.rules.header": "Active TinkerStages restrictions: %s"
+}

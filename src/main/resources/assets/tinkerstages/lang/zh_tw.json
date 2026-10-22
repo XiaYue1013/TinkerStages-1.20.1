@@ -1,0 +1,14 @@
+{
+  "tinkerstages.message.general.crafting": "你目前尚未解鎖製作任何匠魂工具的許可權，需要達成更進一步的時代進度。",
+  "tinkerstages.message.general.part_building": "你目前尚未解鎖製作任何匠魂工具零件的許可權，需要達成更進一步的時代進度。",
+  "tinkerstages.message.general.part_replacing": "你目前尚未解鎖替換匠魂工具零件的許可權，需要達成更進一步的時代進度。",
+  "tinkerstages.message.general.modifier": "你目前尚未解鎖附加任何匠魂強化特性的許可權，需要達成更進一步的時代進度。",
+  "tinkerstages.message.tool_type": "你尚未解鎖製作或使用 %s，需要達成更進一步的時代進度。",
+  "tinkerstages.message.material": "你尚未解鎖使用材料 %s，需要達成更進一步的時代進度。",
+  "tinkerstages.message.modifier": "你尚未解鎖附加或使用強化特性 %s，需要達成更進一步的時代進度。",
+  "tinkerstages.message.modifier.apply": "你尚未解鎖附加強化特性 %s，需要達成更進一步的時代進度。",
+  "tinkerstages.message.dropped": "你掉落了 %s，因為你目前的遊戲階段不允許持有此物品。",
+  "tinkerstages.command.usage": "用法：/tinkerstages dump <tools|materials|modifiers> | /tinkerstages rules",
+  "tinkerstages.command.rules.empty": "目前未啟用任何 TinkerStages 限制規則。",
+  "tinkerstages.command.rules.header": "目前生效中的 TinkerStages 限制規則：%s"
+}

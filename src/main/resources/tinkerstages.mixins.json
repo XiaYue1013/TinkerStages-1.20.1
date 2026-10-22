@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.darkhax.tinkerstages.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "tinkerstages.refmap.json",
+  "mixins": [
+    "AbstractContainerMenuMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
